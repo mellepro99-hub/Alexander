@@ -1,0 +1,80 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf0f5;
+    color: black;
+}
+
+
+header {
+    background-color: #526b80;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 40px;
+}
+
+header p {
+    font-size: 20px;
+}
+
+
+main {
+    max-width: 1200px;
+    margin: 25px auto;
+    padding: 0 20px;
+}
+
+
+section {
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    font-size: 30px;
+    color: black;
+    margin-bottom: 35px;
+}
+
+
+.info img {
+    width: 310px;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.info ul {
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    
+}
+
+
+.om p {
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+
+.lankar a {
+    color: #345a78;
+    font-size: 20px;
+}
+
+
+footer {
+    background-color: #526b80;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    font-size: 18px;
+}
